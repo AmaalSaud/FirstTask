@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(background1.png);
+
+}
+h1{
+text-align: center;
+color: rgb(44, 170, 153);
+}
+h2{
+color: rgb(215, 92, 231);
+}
+p{
+    font-size: 19px;
+    color: rgb(89, 191, 231);
+}
+img{
+    margin-left: 10%;
+    width: 80%;
+    height: 80%;
+    border: 10px solid black;
+    border-radius: 10px;
+}
+container{
+    margin: 50px auto;
+    width: 900px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 5);
+   
+}
+.block1{
+    width: 500px;
+    height: 500px;
+    float: left ;
+}
+.block2{
+    width: 400px;
+    float: left;
+    margin-left: 50px;
+}
+
+.btn{
+width: 150px;
+height: 50px;
+background-color: skyblue;
+color: white;
+border-radius: 2px;
+font-size: 15px;
+margin-top: 5px;
+border: 0;
+}
